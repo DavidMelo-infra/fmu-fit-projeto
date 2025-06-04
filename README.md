@@ -1,10 +1,10 @@
 
 # 🏋️‍♂️ FMU_FIT – PHP - Sistema de Academia
 
-Wellington Santana — RA: 2663204
-Erik Felipe de Arruda Macedo – RA. 2555294
-David Pereira de Melo – RA. 2446282
-Pedro Henrique de Souza Moural – RA. 2430266
+- Wellington Santana — RA: 2663204
+- Erik Felipe de Arruda Macedo – RA. 2555294
+- David Pereira de Melo – RA. 2446282
+- Pedro Henrique de Souza Moural – RA. 2430266
 
 ## 📌 Visão Geral
 
